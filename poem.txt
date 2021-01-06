@@ -9,6 +9,7 @@ Blue
 Pink
 Unicorn
 Indigo
+Purple
 Violet
 
 These are the colors of the rainbow.
